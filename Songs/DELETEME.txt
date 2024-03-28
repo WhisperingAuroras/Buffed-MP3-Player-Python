@@ -1,0 +1,1 @@
+Put songs in this directory or add path to variable dir.
